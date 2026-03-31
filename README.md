@@ -9,8 +9,6 @@
 ---
 
 ## 💻 whoami
-
-```javascript
 const vineet = {
   role: "Full-Stack Developer",
   location: "India 🇮🇳",
