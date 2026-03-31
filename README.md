@@ -16,6 +16,7 @@ const vineet = {
   location: "India 🇮🇳",
   skills: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
 };
+---
 🚀 Tech Stack
 <p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,cpp,tailwind,git,github" /> </p>
 📊 GitHub Stats
