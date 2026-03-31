@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vineet%20Rajpal&fontSize=40&fontAlignY=35" />
+</p>
 <h1 align="center">Hi 👋, I'm Vineet Rajpal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Developer;Always+Learning+New+Things" />
+</p>
 <h3 align="center">Full-Stack Developer | MERN Stack | Always Building 🚀</h3>
 
 <p align="center">
@@ -35,6 +41,11 @@ const Vineet Rajpal = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSpectra31&layout=compact&theme=radical" />
+</p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSpectra31&theme=react-dark" />
 </p>
 
 ---
