@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Developer;Always+Learning+New+Things" />
 </p>
-<h3 align="center">Full-Stack Developer | MERN Stack | Always Building 🚀</h3>
+<h3 align="center">Full-Stack Developer | DSA enthusiast | Always Building 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevSpectra31&label=Profile%20Views&color=blue&style=flat" />
